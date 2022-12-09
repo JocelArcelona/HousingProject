@@ -23,6 +23,14 @@ I used "price" as the target variable, there are a lot of possible features that
 ![1234](https://user-images.githubusercontent.com/108106393/206740272-a04f6740-398f-41b9-86c1-470deb5386bd.png)
 ![5678](https://user-images.githubusercontent.com/108106393/206740312-02ab3b1f-ade4-47f9-87bb-0e9b6b20a435.png)
 
+# Zoning vs Price
+![zoningvsprice](https://user-images.githubusercontent.com/108106393/206797892-0bfb1e87-0afc-4b90-8787-a4e220ec5a3e.png)
+
+# Number oh Houses Sold per Month
+This graph shows the total amount of houses sold in a month, it also shows when the best time to list a property for selling or rental purposes. Summer is usually the peak of houses being sold or rentals getting rented out. So it's ideal to have it listed at least a week before the start of summer. This graph also tells us if it's a buyers market or a sellers market. For landlords and sellers, it's best to list properties when it's a sellers market or when the demand for houses is higher than the supply oh houses available. 
+
+![numbereohousessold](https://user-images.githubusercontent.com/108106393/206797978-416f8b0b-8cf8-4190-be75-9ca20d859b5a.png)
+
 # Base Model with a 0.74 coefficient of determination
 
 Coefficients:
