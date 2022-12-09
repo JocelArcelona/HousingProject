@@ -24,7 +24,22 @@ I used "price" as the target variable, there are a lot of possible features that
 ![5678](https://user-images.githubusercontent.com/108106393/206740312-02ab3b1f-ade4-47f9-87bb-0e9b6b20a435.png)
 
 # Base Model with a 0.74 coefficient of determination
+
+Coefficients:
+Square foot living: 102.00
+Bathroom: 806.09
+Waterfront: 704363
+View: 78246.68
+Grade: 74083.12
+FAR: 63634.91
 ![newplot (2)](https://user-images.githubusercontent.com/108106393/206739178-7f66462e-3b11-44a8-a366-f844bbe2e90c.png)
 
 # Linear Regression Model with 0.85 coefficient of determination
 ![newplot (1)](https://user-images.githubusercontent.com/108106393/206739926-28727bf5-91c7-4bdb-a621-57442f27ff83.png)
+
+# Recommendations
+1. Use a more current house dataset that contains the most recent increase in appraised value every year to see which zipcodes contain the highest percentage increase in house and land value
+2. Find a foreclosed houses dataset to add to the current house dataset given to look for auctioned houses sold by the city 
+(this could potentially give the highest ROI if applied to the filtered dataframe used)
+3. List house for selling/renting purposes during summer
+
